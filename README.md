@@ -1,3 +1,3 @@
 # react-native-weather-app
 
-![](https://github.com/erdodo2/Your_GIF_Name.gif)
+![](https://raw.githubusercontent.com/erdodo2/react-native-weather-app/main/assets/image/gif.gif)
